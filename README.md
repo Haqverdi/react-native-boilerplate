@@ -4,10 +4,15 @@
 
 ## Included
 
-* [React](https://github.com/facebook/react) &
-  [React Native](https://github.com/facebook/react-native)
-* [React Native Navigation v2 by wix](https://wix.github.io/react-native-navigation/#/)
+* [React Native](https://github.com/facebook/react-native)
+* [React](https://github.com/facebook/react)
 * [Redux](https://github.com/reactjs/redux)
+* [React Native Navigation v2 by wix](https://wix.github.io/react-native-navigation/#/)
+* [NativeBase](https://nativebase.io/)
+* [Redux thunk](https://github.com/reduxjs/redux-thunk)
+* [axios](https://github.com/axios/axios)
+and etc.
+
 
 ## Installation
 
